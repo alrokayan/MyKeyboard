@@ -1,0 +1,55 @@
+<SCRIPT LANGUAGE="JavaScript">
+function KeyType() {
+  	var subject=document.getElementsByTagName('textarea')[0];
+	if (document.selection) {
+		var range=document.selection.createRange();
+		range.text=arguments[0];
+		return;
+	}
+	else if (subject.selectionStart || subject.selectionStart=='0') {	
+		var str=subject.value;
+		var a=subject.selectionStart, b=subject.selectionEnd;
+		subject.value=str.substring(0,a)+arguments[0]+str.substring(b,str.length);
+		return;
+	}
+	subject.value+=arguments[0];
+  }
+  
+function cPos()
+{
+	alert("aaa");
+	var subject=document.getElementsByTagName('textarea')[0];
+	alert(subject.selectionStart);
+	alert(subject.selectionEnd);
+}
+ 
+</script>
+
+
+<DIV ALIGN = CENTER>
+<style type="text/css"> #taID { height:83px;width:1024px; font-size:x-large; direction:rtl; } </style>
+	<textarea id="taID" NAME="myTextarea">
+	ABCDEFG
+	</textarea>
+	<input type="button" value="Click Here To See" onClick="cPos()">
+</DIV>
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+	function setCursor(el,st,end) { 
+		if(el.setSelectionRange) { 
+			el.focus(); 
+			el.setSelectionRange(st,end); 
+		} 
+		else { 
+			if(el.createTextRange) { 
+				range=el.createTextRange(); 
+				range.collapse(true); 
+				range.moveEnd('character',end); 
+				range.moveStart('character',st); 
+				range.select();
+			} 
+		} 
+	}	
+</script>
