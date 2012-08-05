@@ -25,11 +25,11 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 - Support Email Address: support@alrokayan.com
 
 # Application Description
-‫:::‬ ماهو برنامج "كيبوردي"؟ :::## 
+## ‫:::‬ ماهو برنامج "كيبوردي"؟ :::
 
 هو برنامج كيبورد عربي متكامل للآيباد يتيح لك تجربة لوحة المفاتيح الأصليه
 
- ::: البرنامج الوحيد حتى الآن الذي يجمع المواصفات التاليه في برنامج واحد :::## 
+## ::: البرنامج الوحيد حتى الآن الذي يجمع المواصفات التاليه في برنامج واحد :::
  
 1. متكامل مع لوحة المفاتيح الإنجليزيه، لذلك يمكنك كتابة نصوص عربيه وإنجليزيه في نفس السطر بشكل صحيح
 2. ظهور المؤثر بشكل صحيح
@@ -40,7 +40,7 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 7. إرسال بريد إلكتروني جديد مباشره دون الحاجه إلى نسخ-لصق
 8. التوافق الكامل مع توتر والفيسبوك .. حيث يمكنك الكتابه في توتر والفيس بوك مباشره من البرنامج مباشره دون الحاجه إلى نسخ-لصق
 
-::: بالإضافه إلى المميزات التاليه :::## 
+## ::: بالإضافه إلى المميزات التاليه :::
 9. تعدد السطور
 10.- ترتيب حروف ماك
 11. تضمين جميع الحروف مع إمكانية ضغط زر "العالي" (شفت) لمزيد من الحروف
@@ -48,27 +48,18 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 13. تمتع بتجربة لوحة المفاتيح الأصليه
 14. حجم لوحة مفاتيح كبيره لسهولة الكتابه
 
-‫:::‬ ماهو الفرق بين النسخه الكامله والنسخه المجانيه؟ :::## 
+## ‫:::‬ ماهو الفرق بين النسخه الكامله والنسخه المجانيه؟ :::
 في هذه النسخه:
 1. لايوجد قيد نسخ أول ٥٠ حروف فقط
 2. لاتوجد أي إعلانات
 3. لاتوجد أي رسائل مزعجه
 
-‫:::‬ ملاحظة مهمه جدا :::## 
-قم بإغلاق إختصار النقطه
-"." Shortcut
-من: الإعدادات ثم لوحة التحكم
 
-
----------------
 ## CUSTOMER REVIEWS
 ```
 "I think this is the best one especially for writing long text. It allows me to write and edit from the middle and this is very important to me.
 I tried other keyboard and it got me really frustrated when I wrote long text and then need to edit a word or phrase in the middle. I was enforced to go backward. But this one is good" - Australian Store
 ```
----------------
-
-
 
 ## ::: What is "Keyboardee"? :::
 It is a full featured Arabic keyboard with original keyboard experience
@@ -101,7 +92,7 @@ Turn Off: "." Shortcut
 From: Settings -> Keyboard.
 
 # What's New
-## What's new in 2.0:
+## What's new in version 2.0:
 1. حل الكثير من الأخطاء البرمجيه
 2. دعم تعدد السطور
 3. أكثر إستقرار
@@ -115,7 +106,7 @@ From: Settings -> Keyboard.
 4. Faster
 5. Add the Arabic comma and reposition the Tha’a letter
 
-## What's new in 3.0:
+## What's new in version 3.0:
 1. البحث في قووقل أو بنق مباشره دون الحاجه إلى النسخ ثم اللصق
 2. البحث في اليوتوب مباشره دون الحاجه إلى النسخ ثم اللصق
 3. إرسال بريد إلكتروني جديد مباشره دون الحاجه إلى النسخ ثم اللصق
@@ -130,3 +121,8 @@ From: Settings -> Keyboard.
 # ::: VERY IMPORTANT NOTICE :::
 Turn Off: "." Shortcut
 From: Settings -> Keyboard.
+
+# ::: ملاحظة مهمه جدا :::
+قم بإغلاق إختصار النقطه
+"." Shortcut
+من: الإعدادات ثم لوحة التحكم
