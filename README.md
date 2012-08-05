@@ -56,10 +56,10 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 
 
 ## CUSTOMER REVIEWS
-```
-"I think this is the best one especially for writing long text. It allows me to write and edit from the middle and this is very important to me.
-I tried other keyboard and it got me really frustrated when I wrote long text and then need to edit a word or phrase in the middle. I was enforced to go backward. But this one is good" - Australian Store
-```
+> "I think this is the best one especially for writing long text. It allows me to write and edit from the
+> middle and this is very important to me. I tried other keyboard and it got me really frustrated when
+> I wrote long text and then need to edit a word or phrase in the middle. I was enforced to go backward.
+> But this one is good" - Australian Store
 
 ##   What is "Keyboardee"?  
 It is a full featured Arabic keyboard with original keyboard experience
