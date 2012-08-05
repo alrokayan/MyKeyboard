@@ -25,11 +25,11 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 - Support Email Address: support@alrokayan.com
 
 # Application Description
-## ‫:::‬ ماهو برنامج "كيبوردي"؟ :::
+## ‫ ‬ ماهو برنامج "كيبوردي"؟  
 
 هو برنامج كيبورد عربي متكامل للآيباد يتيح لك تجربة لوحة المفاتيح الأصليه
 
-## ::: البرنامج الوحيد حتى الآن الذي يجمع المواصفات التاليه في برنامج واحد :::
+##   البرنامج الوحيد حتى الآن الذي يجمع المواصفات التاليه في برنامج واحد  
  
 1. متكامل مع لوحة المفاتيح الإنجليزيه، لذلك يمكنك كتابة نصوص عربيه وإنجليزيه في نفس السطر بشكل صحيح
 2. ظهور المؤثر بشكل صحيح
@@ -40,7 +40,7 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 7. إرسال بريد إلكتروني جديد مباشره دون الحاجه إلى نسخ-لصق
 8. التوافق الكامل مع توتر والفيسبوك .. حيث يمكنك الكتابه في توتر والفيس بوك مباشره من البرنامج مباشره دون الحاجه إلى نسخ-لصق
 
-## ::: بالإضافه إلى المميزات التاليه :::
+##   بالإضافه إلى المميزات التاليه  
 9. تعدد السطور
 10.- ترتيب حروف ماك
 11. تضمين جميع الحروف مع إمكانية ضغط زر "العالي" (شفت) لمزيد من الحروف
@@ -48,7 +48,7 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 13. تمتع بتجربة لوحة المفاتيح الأصليه
 14. حجم لوحة مفاتيح كبيره لسهولة الكتابه
 
-## ‫:::‬ ماهو الفرق بين النسخه الكامله والنسخه المجانيه؟ :::
+## ‫ ‬ ماهو الفرق بين النسخه الكامله والنسخه المجانيه؟  
 في هذه النسخه:
 1. لايوجد قيد نسخ أول ٥٠ حروف فقط
 2. لاتوجد أي إعلانات
@@ -61,10 +61,10 @@ This application was useful when there was no Arabic keyboard on iPad. However, 
 I tried other keyboard and it got me really frustrated when I wrote long text and then need to edit a word or phrase in the middle. I was enforced to go backward. But this one is good" - Australian Store
 ```
 
-## ::: What is "Keyboardee"? :::
+##   What is "Keyboardee"?  
 It is a full featured Arabic keyboard with original keyboard experience
 
-## ::: The only app in AppStore that combine the following features :::
+##   The only app in AppStore that combine the following features  
 1. Integrated with English keyboard, so you can type English and Arabic together in the same line 100% perfectly
 2. Shows the curser in the write place 100% perfectly
 3. Edit from the middle without any problems
@@ -74,7 +74,7 @@ It is a full featured Arabic keyboard with original keyboard experience
 7. Send an email direct from the app without copy-n-past.
 8. Integrated with Twitter and Facebook, you can post to Twitter and/or Facebook direct from the app without copy-n-past and without leaving the app.
 
-## ::: In addition to the following features :::
+##   In addition to the following features  
 9. Multilines support
 10. Mac Arabic Keyboard style for easy writing (same as iPhone keyboard layout)
 11. Including the "shift" key for more charters
@@ -82,12 +82,12 @@ It is a full featured Arabic keyboard with original keyboard experience
 13. Original keyboard experience
 14. Full sized keyboard for easy and fast typing
 
-## ::: What is the different between the full and free version :::
+##   What is the different between the full and free version  
 1. No "copy first 50 letters" only constrain
 2. No ads
 3. No annoying messages
 
-## ::: VERY IMPORTANT NOTE :::
+##   VERY IMPORTANT NOTE  
 Turn Off: "." Shortcut
 From: Settings -> Keyboard.
 
@@ -118,11 +118,11 @@ From: Settings -> Keyboard.
 3. Send an email direct from the app without copy-n-past.
 4. Integrated with Twitter and Facebook, you can post to Twitter and/or Facebook direct from the app without copy-n-past and without leaving the app.
 
-# ::: VERY IMPORTANT NOTICE :::
+#   VERY IMPORTANT NOTICE  
 Turn Off: "." Shortcut
 From: Settings -> Keyboard.
 
-# ::: ملاحظة مهمه جدا :::
+#   ملاحظة مهمه جدا  
 قم بإغلاق إختصار النقطه
 "." Shortcut
 من: الإعدادات ثم لوحة التحكم
