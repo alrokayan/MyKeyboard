@@ -4,9 +4,6 @@ MyKeyboard: Arabic Keybaord For iPad
 # License
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-# Official Page
-http://mohammed.alrokayan.com/projects/arabic-keyboard-for-ipad
-
 # App Store
 - Free Version: http://itunes.apple.com/qa/app/kybwrdy-alkybwrd-al-rby-almjany/id386383996?mt=8
 - Paid Version: http://itunes.apple.com/app/id377637892
